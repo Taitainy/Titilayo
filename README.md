@@ -6,4 +6,8 @@ I'm a Data Analyst documenting my journey one dataset at a time....Currently, I 
 
 I don't just clean data and build dashboards, I tell stories and give meaningful insights😉
 
-[SQL](https://img.shields.io/badge/SQL-blue)
+## Tools & Skills
+● Microsoft Excel | Power Query | Pivot Tables | Conditional Formating
+● Power BI | DAX | Data Modelling 
+● SQL (Currently Learning)
+● Data Cleaning | Data Storytelling | Dashboard Design
