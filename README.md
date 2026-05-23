@@ -8,6 +8,4 @@ I don't just clean data and build dashboards, I tell stories and give meaningful
 
 ## Tools & Skills
 ● Microsoft Excel | Power Query | Pivot Tables | Conditional Formating
-● Power BI | DAX | Data Modelling 
-● SQL (Currently Learning)
-● Data Cleaning | Data Storytelling | Dashboard Design
+
